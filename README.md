@@ -15,14 +15,15 @@
 	<span style="text-decoration: underline; color: #339966;">Features:</span>
 </h2>
 <ul>
-	<li>[WCouchDB Library](https://github.com/shaibenshim/WCouchDB/blob/master/WCouchDB/WCouchDB-1.0.jar?raw=true "WCouchDB jar")
-</li>
+
 	<li>RESTFUL api.</li>
 	<li>General Wrap for JSON results.</li>
 	<li>Fasters Requests.</li>
 	<li>Fasters Responses.</li>
 	<li>Easy and convenient to use.</li>
 </ul>
+### Download Library
+[WCouchDB Library](https://github.com/shaibenshim/WCouchDB/blob/master/WCouchDB/WCouchDB-1.0.jar?raw=true "WCouchDB jar")
 <h2>
 	<span style="text-decoration: underline;"><span
 		style="color: #339966; text-decoration: underline;">Quick
